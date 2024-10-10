@@ -7,3 +7,7 @@
 ### 2: [calculator](calculator)
 + [main.rs](calculator/src/main.rs)
 + [notes](calculator/notes.md)
+
+### 3: [fibonacci sequence generator](fibonacci)
++ [main.rs](fibonacci/src/main.rs)
++ [notes](fibonacci/notes.md)
