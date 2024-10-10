@@ -7,4 +7,4 @@
 ## things i didn't like
 
 + i dont like the way input is taken compared to python
-+ i didnt like the way you have to define the dependencies in the [cargo.toml](guessing_game/Cargo.toml) file in order to actually use the package
++ i didnt like the way you have to define the dependencies in the [cargo.toml](Cargo.toml) file in order to actually use the package
